@@ -14,6 +14,9 @@ The `settings.json` should be in the same directory as where you are executing t
 
 `python3 sync_splunk_inputs.py`
 
+I found that by going into the Splunk Data Inputs page for SigSci and disabling/enabling **any one** input seems to trigger **all** of the inputs to start working. Again you do not need to do this for all of them, just for one.
+
+![Input Example](images/inputs_page.png "Input Example")
 
 **Settings Options**
 
