@@ -1,0 +1,13 @@
+{
+    "corp": "REPLACEME",
+    "api_user": "REPLACEME",
+    "api_token": "REPLACEME",
+    "inputs_file": "REPLACEME/local/inputs.conf",
+    "input_delta": 5,
+    "input_index": "default",
+    "input_interval": 300,
+    "input_disabled": 0,
+    "requestEnabled": true,
+    "eventEnabled": true,
+    "activityEnabled": true
+}
